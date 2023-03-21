@@ -4,9 +4,8 @@
 # BUILD
   - npm install
   - npm run start (npm run prod)
-  
-# THANKS
 
+# THANKS
 - NodeJs 16:
   https://nodejs.org/dist/v16.19.1/
 
@@ -15,3 +14,9 @@
   
 - Express-Static:
   https://www.npmjs.com/package/express-static
+  
+- Serve-Favicon:
+  https://www.npmjs.com/package/serve-favicon
+
+- Compression:
+  https://www.npmjs.com/package/compression
