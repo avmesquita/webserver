@@ -1,8 +1,9 @@
-{  
+  {
     "verbose": true,
     "ignore": [
       ".git",
       "node_modules/**/node_modules"
     ],
-    "delay": 10000    
+    "ext": "js,css,html,json,mjb",
+    "delay": 1000
   }
